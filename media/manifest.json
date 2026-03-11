@@ -1,0 +1,126 @@
+{
+  "videos": {
+    "video-editing": [
+      {
+        "file": "tiktok-reels1.mp4",
+        "title": "Hair Problems Reel",
+        "description": "Reel highlighting the benefits of a shampoo product, addressing common hair problems like dryness and damage, while promoting healthy, nourished hair.",
+        "tools": ["CapCut"]
+      },
+      {
+        "file": "tiktok-reels2.mp4",
+        "title": "Shampoo Product Showcase Reel",
+        "description": "Dynamic TikTok reel showcasing a shampoo designed for fresh, healthy hair, even after a day at sea.",
+        "tools": ["CapCut"]
+      },
+      {
+        "file": "event-highlights1.mp4",
+        "title": "Live Selling Event Highlighs",
+        "description": "Compilation of behind-the-scenes moments and key highlights from the live selling event, capturing the energy and excitement of the campaign.",
+        "tools": ["CapCut"]
+      },
+      {
+        "file": "event-highlights2.mp4",
+        "title": "12.12 Live Selling Event Highlights",
+        "description": "Exciting highlights from the 12.12 live selling event, featuring product showcases, customer interactions, and special offers that made the event unforgettable.",
+        "tools": ["CapCut"]
+      },
+      {
+        "file": "event-highlights3.mp4",
+        "title": "Behind the Scenes: Live Selling Event",
+        "description": "An exclusive behind-the-scenes look at the live selling event, capturing the team’s preparation, product setups, and live interactions that brought the event to life.",
+        "tools": ["CapCut"]
+      },
+      {
+        "file": "promotional-video1.mp4",
+        "title": "11.11 Promotional Video",
+        "description": "TikTok content, this promotional video teases the upcoming 11.11 sale, creating buzz and excitement around exclusive deals and offers.",
+        "tools": ["CapCut"]
+
+      }
+    ],
+    "ai-content": [
+      {
+        "file": "ai-video-1.mp4",
+        "title": "AI Content Reels",
+        "description": "Informative AI-generated content featuring b-rolls and UGC of the product, created using Hailuo AI and DeepSider. This reel combines innovative visuals with real user experiences to highlight product benefits.",
+        "tools": ["CapCut", "Hailuo AI"]
+      },
+      {
+        "file": "ai-video-2.mp4",
+        "title": "AI Content Reels: Educational for Farmers",
+        "description": "AI-driven educational content designed to support farmers, offering valuable insights and practical tips. This reel uses AI tools to create engaging visuals and easy-to-understand information for better farming practices.",
+        "tools": ["CapCut", "Hailuo AI", "Flow AI"]
+      },
+      {
+        "file": "ai-video-3.mp4",
+        "title": "AI Content Reels: Educational for Farmers-2",
+        "description": "AI-driven educational content designed to support farmers, offering valuable insights and practical tips. This reel uses AI tools to create engaging visuals and easy-to-understand information for better farming practices.",
+        "tools": ["CapCut", "Hailuo AI", "Flow AI"]
+      },
+      {
+        "file": "ai-video-4.mp4",
+        "title": "AI Content Reels: Educational for Farmers-3",
+        "description": "AI-driven educational content designed to support farmers, offering valuable insights and practical tips. This reel uses AI tools to create engaging visuals and easy-to-understand information for better farming practices.",
+        "tools": ["CapCut", "Hailuo AI", "Flow AI"]
+      },
+      {
+        "file": "ai-video-5.mp4",
+        "title": "AI Talking Object Videos: Farmer Education",
+        "description": "AI-powered talking object videos educating farmers on how to grow eggplants and properly care for the soil. Created using CapCut, Canva, and DeepSider, these videos offer easy-to-follow, interactive learning experiences.",
+        "tools": ["CapCut", "Canva", "DeepSider"]
+      }
+    ],
+    "motion-graphics": [
+      {
+        "file": "transition-effects1.mp4",
+        "title": "The Perfect Pause",
+        "description": "Created this custom animation in Canva and transferred it to CapCut for sound effects, speed, and more. An interactive reel that challenges viewers to tap at the perfect moment, boosting view time and replay value.",
+        "tools": ["Canva", "CapCut"]
+      },
+      {
+        "file": "transition-effects2.mp4",
+        "title": "TikTok Live OBS Setup",
+        "description": "Custom TikTok Live OBS setup for live selling, featuring floating objects created entirely in Canva. This dynamic design enhances live streaming experiences and boosts interaction.",
+        "tools": ["Canva", "OBS Studio"]
+      },
+      {
+        "file": "transition-effects3.mp4",
+        "title": "Brewed Thoughts",
+        "description": "Created a custom 'What’s on my mind' motion graphic in Canva, tailored to fit the brand concept. A fun and engaging way to connect with the audience while showcasing brand personality.",
+        "tools": ["Canva", "CapCut"]
+      },
+      {
+        "file": "transition-effects4.mp4",
+        "title": "Hair Care Haul",
+        "description": "An interactive motion graphic showcasing hair care essentials being added to the cart. The final fade transition highlights a 'Cart Full' message with savings on the featured products.",
+        "tools": ["Canva", "CapCut"]
+      },
+      {
+        "file": "transition-effects5.mp4",
+        "title": "Hair Care Thoughts",
+        "description": "Adapted the 'What’s on my mind' trend for a shampoo brand, with hair care products floating above the head. A creative way to highlight the brand’s key offerings while engaging viewers.",
+        "tools": ["Canva", "CapCut"]
+      },
+      {
+        "file": "text-animations.mp4",
+        "title": "Coffee Spin",
+        "description": "Pinterest-inspired motion graphic for the coffee brand, featuring a rotating product in the center with synchronized text. Products pop up in different corners, creating an engaging visual flow that highlights key items.",
+        "tools": ["Canva", "CapCut"]
+      },
+      {
+        "file": "text-animations2.mp4",
+        "title": "Product Highlights in Motion",
+        "description": "Pinterest-inspired text animation showcasing product benefits. The benefits pop up dynamically in the center of the video, with custom animations made in Canva and enhanced with sound effects in CapCut.",
+        "tools": ["Canva", "CapCut"]
+      }
+    ]
+  },
+  "images": {
+    "graphic-design": [],
+    "2d-assets": [],
+    "3d-assets": [],
+    "ui-ux": [],
+    "web-development": []
+  }
+}
